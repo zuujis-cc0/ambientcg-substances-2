@@ -2,7 +2,15 @@
 
 **1 assets from [ambientCG](https://ambientcg.com), dedicated to the public domain under [CC0](https://docs.ambientcg.com/license/).** Use them in any game, free or paid, and change them however you like; no credit is needed.
 
-**This repository is filling itself.** Its [update workflow](.github/workflows/update.yml) is downloading the files from [ambientCG](https://ambientcg.com); the list of assets with pictures appears here when it is done.
+Compiled Substance materials (.sbsar). 95.3 MB in all.
+
+This is a copy kept by [zuujis-cc0](https://github.com/zuujis-cc0) so game makers can take single files from GitHub. It is not made by or affiliated with ambientCG: the originals, often in more formats and higher resolutions, are on [ambientcg.com](https://ambientcg.com). If they help you, consider [supporting ambientCG](https://www.patreon.com/ambientCG).
+
+Every file is listed in [MANIFEST.tsv](MANIFEST.tsv) with its size and SHA-256. More free assets: [the Zuujis collection](https://github.com/zuujis-cc0/free-game-assets#readme).
+
+| | | | |
+| :-: | :-: | :-: | :-: |
+| <a href="WoodFloorSubstance009"><img src="previews/WoodFloorSubstance009.png" width="160" alt="Wood Floor Substance 009"></a><br><b><a href="WoodFloorSubstance009">Wood Floor Substance 009</a></b><br><sub>by ambientCG · <a href="https://ambientcg.com/a/WoodFloorSubstance009">source</a></sub> |  |  |  |
 
 ---
 

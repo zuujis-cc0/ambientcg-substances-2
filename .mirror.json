@@ -1,5 +1,7 @@
 {
- "assets": {},
+ "assets": {
+  "WoodFloorSubstance009": "223d41ac98ca4c64490e412117fd7805092b82f6"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
